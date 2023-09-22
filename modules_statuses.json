@@ -1,0 +1,7 @@
+{
+    "Website": true,
+    "AdminProfessor": true,
+    "Auth": true,
+    "Student": true,
+    "Email": true
+}

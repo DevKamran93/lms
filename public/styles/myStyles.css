@@ -1,0 +1,12 @@
+.tag-input {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  .tag {
+    display: inline-block;
+    background-color: lightgray;
+    padding: 5px 10px;
+    margin-right: 10px;
+    border-radius: 20px;
+  }
